@@ -1,6 +1,6 @@
-# big_store
+# big_store [Laravel](https://laravel.com/docs/5.7) 5.7 E-commerce Project
 
-[Laravel](https://laravel.com/docs/5.7) 5.7 E-commerce Project
+
 
 update composer
 #or 
